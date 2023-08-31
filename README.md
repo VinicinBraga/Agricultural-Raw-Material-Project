@@ -8,8 +8,8 @@ Projeto de analise de dados em Python realizado no Google Colab.
 + Dentre outros...
 
 <div>
-    <img src="./images/price-calor.png" alt="calor" width="400"/>
     <img src="./images/price-change-calor.png" alt="change" width="400"/>
+    <img src="./images/price-calor.png" alt="calor" width="400"/>
     <img src="./images/price-change-percent.png" alt="percent" width="400"/>
     <img src="./images/price-comparasion.png" alt="comparasion" width="400"/>
 </div>
