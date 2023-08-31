@@ -1,26 +1,21 @@
 # Agricultural-Raw-Material-Project
+Projeto de analise de dados em Python realizado no Google Colab.
 
-
-## Demonstração
-### ORDERS:
-+ Vendas por Mês e Ano
-+ Produtos mais vendidos
-+ Vendas por Local e Categoria
+### Algumas Analises:
++ Correlação entre as matérias-primas;
++ Variação nos preços de cada matéria prima;
++ Comparação do percentual dos preços; 
 + Dentre outros...
+
 <div>
-    <img src="./images/Orders1.png" alt="Order1" width="400"/>
-    <img src="./images/Orders2.png" alt="Order2" width="400"/>
+    <img src="./images/price-calor.png" alt="calor" width="400"/>
+    <img src="./images/price-change-calor.png" alt="change" width="400"/>
+    <img src="./images/price-change-percent.png" alt="percent" width="400"/>
+    <img src="./images/price-comparasion.png" alt="comparasion" width="400"/>
 </div>
 
-### Users:
-+ Total de Usuários
-+ Crescimento Anual
-+ Feedbacks e Reviews
-+ Dentre outros...
-<div>
-    <img src="./images/Users1.png" alt="Users1" width="400"/>
-    <img src="./images/Users2.png" alt="Users2" width="400"/>
-</div>
+## Contribuição
+Contribuições são bem-vindas! Se você encontrar bugs, problemas ou tiver melhorias a serem sugeridas, abra uma issue ou envie uma solicitação de pull
 
 ## Contato
 Se você tiver alguma dúvida ou precisar entrar em contato, pode me encontrar em:
