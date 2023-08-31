@@ -1,11 +1,16 @@
-# Agricultural-Raw-Material-Project
-Projeto de analise de dados em Python realizado no Google Colab.
+# Projeto de Análise de Dados de Matérias-Primas Agrícolas
 
-### Algumas Analises:
-+ Correlação entre as matérias-primas;
-+ Variação nos preços de cada matéria prima;
-+ Comparação do percentual dos preços; 
-+ Dentre outros...
+## Descrição
+Bem-vindo ao "Projeto de Análise de Dados de Matérias-Primas Agrícolas"! Este projeto foi desenvolvido utilizando a linguagem de programação Python e executado no ambiente colaborativo do Google Colab. Nosso objetivo é explorar e compreender profundamente as tendências e padrões dos preços das matérias-primas agrícolas, empregando análises de dados abrangentes e visualizações elucidativas.
+
+## Análises Realizadas
+Nossa análise abrange uma série de áreas-chave para fornecer insights valiosos sobre as matérias-primas agrícolas. Algumas das análises incluídas são:
+
+- **Correlação entre Matérias-Primas:** Investigamos as relações interdependentes entre diferentes matérias-primas agrícolas, identificando conexões e influências mútuas.
+- **Variação de Preços de Matérias-Primas:** Examinamos as flutuações históricas nos preços de cada matéria-prima, revelando padrões sazonais, tendências de longo prazo e picos de volatilidade.
+- **Comparação Percentual de Preços:** Realizamos comparações entre os preços percentuais das matérias-primas, destacando mudanças relativas ao longo do tempo.
+- **Visualizações Gráficas Significativas:** Criamos visualizações gráficas intuitivas para representar as análises, tornando os padrões complexos mais acessíveis e compreensíveis.
+
 
 <div>
     <img src="./images/price-calor.png" alt="calor" width="400"/>
@@ -14,14 +19,14 @@ Projeto de analise de dados em Python realizado no Google Colab.
     <img src="./images/price-change-calor.png" alt="change" width="400"/>
 </div>
 
-## Contribuição
-Contribuições são bem-vindas! Se você encontrar bugs, problemas ou tiver melhorias a serem sugeridas, abra uma issue ou envie uma solicitação de pull
+## Contribuições
+Estamos entusiasmados com contribuições construtivas para aprimorar ainda mais nosso projeto. Se você identificar problemas, bugs ou tiver sugestões de aprimoramento, convidamos você a abrir uma "issue" ou enviar uma solicitação de "pull request" em nosso repositório.
 
 ## Contato
-Se você tiver alguma dúvida ou precisar entrar em contato, pode me encontrar em:
+Para perguntas, esclarecimentos ou discussões relacionadas ao projeto, fique à vontade para entrar em contato:
 
-Email: vinicius@bragamatta.com ou vinibm85@gmail.com
+- E-mail: vinicius@bragamatta.com ou vinibm85@gmail.com
+- GitHub: [https://github.com/VinicinBraga](https://github.com/VinicinBraga)
+- LinkedIn: [https://www.linkedin.com/in/vinícius-braga](https://www.linkedin.com/in/vinícius-braga)
 
-GitHub: https://github.com/VinicinBraga
-
-Linkedin: https://www.linkedin.com/in/vinícius-braga
+Junte-se a nós enquanto exploramos as nuances das matérias-primas agrícolas por meio de dados e análises detalhadas!
